@@ -21,13 +21,6 @@ def generate_launch_description():
             output='screen')
 
     # spawn robot
-    # spawn_robot = Node(
-    #     package="robot_spawner_pkg",
-    #     executable="spawn_robot",
-    #     name="spawn_robot",
-    #     remappings=[],
-    #     parameters=[{}]
-    # )
 
     urdf = os.path.join(pkg_dir, 'urdf', 'my_robot.xacro')
     xml = open(urdf, 'r').read()
@@ -37,7 +30,7 @@ def generate_launch_description():
             cmd=['ros2', 'service', 'call', '/spawn_entity', 'gazebo_msgs/SpawnEntity', swpan_args],
             output='screen')
     return LaunchDescription([
-        gazebo,
         sim_time_process,
+        gazebo,
         spawn_robot
     ])
