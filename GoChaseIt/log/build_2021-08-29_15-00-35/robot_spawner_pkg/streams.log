@@ -1,0 +1,27 @@
+[23.018s] Invoking command in '/mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/build/robot_spawner_pkg': PYTHONPATH=/mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/robot_spawner_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/robot_spawner_pkg --uninstall --editable --build-directory /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/build/robot_spawner_pkg/build
+[45.930s] running develop
+[48.006s] Invoked command in '/mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/build/robot_spawner_pkg' returned '0': PYTHONPATH=/mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/robot_spawner_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/robot_spawner_pkg --uninstall --editable --build-directory /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/build/robot_spawner_pkg/build
+[48.013s] Invoking command in '/mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/src/robot_spawner_pkg': PYTHONPATH=/mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/robot_spawner_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot_spawner_pkg build --build-base /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/build/robot_spawner_pkg/build install --prefix /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/robot_spawner_pkg --record /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/build/robot_spawner_pkg/install.log --single-version-externally-managed
+[68.567s] running egg_info
+[68.603s] writing ../../build/robot_spawner_pkg/robot_spawner_pkg.egg-info/PKG-INFO
+[68.644s] writing dependency_links to ../../build/robot_spawner_pkg/robot_spawner_pkg.egg-info/dependency_links.txt
+[68.685s] writing entry points to ../../build/robot_spawner_pkg/robot_spawner_pkg.egg-info/entry_points.txt
+[68.718s] writing requirements to ../../build/robot_spawner_pkg/robot_spawner_pkg.egg-info/requires.txt
+[68.737s] writing top-level names to ../../build/robot_spawner_pkg/robot_spawner_pkg.egg-info/top_level.txt
+[69.395s] reading manifest file '../../build/robot_spawner_pkg/robot_spawner_pkg.egg-info/SOURCES.txt'
+[69.839s] writing manifest file '../../build/robot_spawner_pkg/robot_spawner_pkg.egg-info/SOURCES.txt'
+[69.860s] running build
+[69.865s] running build_py
+[69.969s] copying robot_spawner_pkg/spawn_robot.py -> /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/build/robot_spawner_pkg/build/lib/robot_spawner_pkg
+[70.185s] running install
+[70.253s] running install_lib
+[70.551s] copying /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/build/robot_spawner_pkg/build/lib/robot_spawner_pkg/spawn_robot.py -> /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/robot_spawner_pkg/lib/python3.8/site-packages/robot_spawner_pkg
+[70.984s] byte-compiling /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/robot_spawner_pkg/lib/python3.8/site-packages/robot_spawner_pkg/spawn_robot.py to spawn_robot.cpython-38.pyc
+[71.284s] running install_data
+[71.442s] running install_egg_info
+[71.536s] removing '/mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/robot_spawner_pkg/lib/python3.8/site-packages/robot_spawner_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[71.916s] Copying ../../build/robot_spawner_pkg/robot_spawner_pkg.egg-info to /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/robot_spawner_pkg/lib/python3.8/site-packages/robot_spawner_pkg-0.0.0-py3.8.egg-info
+[73.421s] running install_scripts
+[73.710s] Installing spawn_robot script to /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/robot_spawner_pkg/lib/robot_spawner_pkg
+[73.746s] writing list of installed files to '/mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/build/robot_spawner_pkg/install.log'
+[73.807s] Invoked command in '/mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/src/robot_spawner_pkg' returned '0': PYTHONPATH=/mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/robot_spawner_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot_spawner_pkg build --build-base /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/build/robot_spawner_pkg/build install --prefix /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/robot_spawner_pkg --record /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/build/robot_spawner_pkg/install.log --single-version-externally-managed

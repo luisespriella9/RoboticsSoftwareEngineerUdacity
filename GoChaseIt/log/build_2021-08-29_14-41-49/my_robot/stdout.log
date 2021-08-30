@@ -1,0 +1,26 @@
+-- Found ament_cmake: 0.9.8 (/home/luis/ros2_foxy/install/ament_cmake/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/build/my_robot
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/launch/world.launch.py
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/worlds/empty.world
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/urdf/my_robot.xacro
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/ament_index/resource_index/package_run_dependencies/my_robot
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/ament_index/resource_index/parent_prefix_path/my_robot
+-- Up-to-date symlink: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/environment/ament_prefix_path.sh
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/environment/path.sh
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/environment/path.dsv
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/local_setup.bash
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/local_setup.sh
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/local_setup.zsh
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/local_setup.dsv
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/package.dsv
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/ament_index/resource_index/packages/my_robot
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/cmake/my_robotConfig.cmake
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/cmake/my_robotConfig-version.cmake
+-- Symlinking: /mnt/c/Users/luisf/github/RoboticsSoftwareEngineerUdacity/GoChaseIt/install/my_robot/share/my_robot/package.xml
